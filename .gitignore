@@ -27,4 +27,4 @@
 
 # I don't want tp show my secrets
 /config/secrets.yml
-/config/credentials.ymc.enc
+/config/credentials.yml.enc
